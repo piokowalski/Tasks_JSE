@@ -1,9 +1,6 @@
 package tasks;
 
-import tasks.tasks.Task20;
-import tasks.tasks.Task21;
-import tasks.tasks.Task22;
-import tasks.tasks.Task23;
+import tasks.tasks.*;
 
 public class TaskRunner {
     public void run() {
@@ -17,7 +14,12 @@ public class TaskRunner {
 //        Task22 task22 = new Task22();
 //        task22.run();
 
-        Task23 task23 = new Task23();
-        task23.run();
+//        Task23 task23 = new Task23();
+//        task23.run();
+
+        Cwicz1 cwicz1 = new Cwicz1();
+        cwicz1.run();
+
+
     }
 }

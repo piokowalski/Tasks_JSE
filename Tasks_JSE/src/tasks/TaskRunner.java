@@ -17,8 +17,14 @@ public class TaskRunner {
 //        Task23 task23 = new Task23();
 //        task23.run();
 
-        Cwicz1 cwicz1 = new Cwicz1();
-        cwicz1.run();
+//        Cwicz1 cwicz1 = new Cwicz1();
+//        cwicz1.run();
+
+        Cwicz2 cwicz2 = new Cwicz2();
+        cwicz2.run();
+
+
+
 
 
     }

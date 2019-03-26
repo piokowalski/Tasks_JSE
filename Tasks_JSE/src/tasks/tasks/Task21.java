@@ -1,5 +1,6 @@
 package tasks.tasks;
 
+
 public class Task21 {
     public void run() {
 

@@ -6,6 +6,7 @@ public class Task20 {
     public void run() {
 
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter some text below, I'll count the dots:");
 
         String line = scanner.nextLine();
         int dots = countDots(line);
